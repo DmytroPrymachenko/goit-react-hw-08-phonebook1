@@ -1,7 +1,7 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
 
-import UserButton from '../button/Button';
+import UserButton from '../Button';
 import {
   Header,
   HeaderNavLink,
